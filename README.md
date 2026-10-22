@@ -22,7 +22,7 @@ source install/setup.bash
    ros2 run sicaklik_izleyici_py izleyici
    ```
 
-3. **Parametre Değiştirme (Bonus):**
+3. **Eşik Değerini Dinamik Değiştirme:**
    ```bash
    ros2 param set /izleyici_node esik_degeri 35.0
    ```

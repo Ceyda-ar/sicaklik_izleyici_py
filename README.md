@@ -28,4 +28,5 @@ source install/setup.bash
    ```
 
 ## RQT Graph Görseli
+![rqt_graph](rqt_graph.png)
 
